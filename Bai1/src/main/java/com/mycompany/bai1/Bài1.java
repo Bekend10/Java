@@ -17,7 +17,7 @@ public class Bài1 {
                 }
                     
             }
-            System.out.print("\n");
+            System.out.print("\n ");
         }
     }
 }
